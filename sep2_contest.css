@@ -1,0 +1,114 @@
+.contest_2 {
+    margin: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/*
+<nav class="nav">
+     <div class="head_left">
+        <div class="head_left_left"> <img src="./Otarea.png"></div>
+        <div class="head_left_right"><img src="./blog.png"></div>
+     </div>
+     <div class="head_right">
+        <div class="head_right_left"> <img src="./archive.png"></div>
+        <div class="head_right_right">    <img src="./get.png"></div>
+     </div>
+
+
+<div class="Latest_Blogs_Section_RIGHT_LEFT">By Writter Name</div>
+            <div class="Latest_Blogs_Section_RIGHT_RIGHT">23 Dec</div>
+
+
+     */
+
+.banner {
+
+    padding: 60px;
+    border-radius: 2%;
+    display: flex;
+    align-items: center;
+    background-image: url(./backgroud_color.jpg);
+}
+
+.Latest_Blogs_Section {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Latest_Blogs_Section_RIGHT {
+    padding: 20px;
+}
+
+
+/*
+     .More_Blogs_Section > .first{
+        padding: 30px;
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        box-shadow: rgba(0, 0, 0, 0.25);
+     }
+/*
+     .More_Blogs_Section , p{
+        color: rgba(70, 67, 67, 1);
+        
+     }
+     .More_Blogs_Section , section{
+        color:rgba(33, 57, 73, 1);
+    }
+    .section{
+        justify-content:right;
+    }
+     */
+
+.summa {
+    border: 1px;
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Footer {
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    background-image: url(./backgroud_color.jpg);
+}
+
+
+/*
+    
+    <div class="More_Blogs_Section">
+    <div class="first">
+       <img src="./Rectangle 15.png">
+       <h2>Other post heading sample tex...</h2>
+       <img src="./Frame 10.png">
+       <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”</p>
+       <section>See full</section>
+    </div>
+    <div class="first">
+        <img src="./Rectangle 15.png">
+        <h2>Other post heading sample tex...</h2>
+        <img src="./Frame 10.png">
+        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”</p>
+     </div>
+     <div class="first">
+        <img src="./Rectangle 15.png">
+        <h2>Other post heading sample tex...</h2>
+        <img src="./Frame 10.png">
+        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”</p>
+        <section>See full</section>
+     </div>
+    
+</div>
+
+*/
